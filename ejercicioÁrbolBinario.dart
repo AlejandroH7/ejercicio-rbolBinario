@@ -119,7 +119,7 @@ void main() {
   empresa.insertar(60, "Ana");
   empresa.insertar(80, "Bradley");
 
-  // ✅ Se muestra la jerarquía con los tres recorridos.
+  //Se muestra la jerarquía con los tres recorridos.
   empresa.preorden();
   empresa.inorden();
   empresa.postorden();
